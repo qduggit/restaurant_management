@@ -1,0 +1,9 @@
+﻿1	bàn 1	Trống
+2	bàn2	Trống
+3	bàn3	Trống
+4	bàn4	Trống
+5	bàn5	Trống
+6	bàn6	Trống
+7	bàn7	Trống
+8	bàn8	Trống
+9	bàn 9	Trống
